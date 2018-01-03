@@ -1,5 +1,5 @@
 pkg_name=imagemagick
-pkg_origin=learn-chef
+pkg_origin=goblin23
 pkg_version=6.9.2-10
 pkg_description="A software suite to create, edit, compose, or convert bitmap images."
 pkg_upstream_url="http://imagemagick.org/"
